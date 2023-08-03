@@ -1,0 +1,6 @@
+# ninja log v5
+3	1151	6949113941023137	CMakeFiles/gameexp.dir/main.cpp.obj	83c0c041f5b46c99
+260	324	6949330889987436	gameexp.exe	b6a6d9f4c71b9bf1
+2	128	6949329940726212	CMakeFiles/gameexp.dir/snake.cpp.obj	41b86320b8ca1519
+2	34	6949330031690435	CMakeFiles/gameexp.dir/exp.cpp.obj	3926e57d72bb57a8
+2	260	6949330889369076	CMakeFiles/gameexp.dir/exp_exp.cpp.obj	d30f1cba92f73d5b
